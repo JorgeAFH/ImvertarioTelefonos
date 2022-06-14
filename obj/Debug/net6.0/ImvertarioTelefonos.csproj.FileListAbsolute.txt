@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\obj\Debug\net6.0\ImvertarioTelefonos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\obj\Debug\net6.0\ImvertarioTelefonos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\obj\Debug\net6.0\ImvertarioTelefonos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\obj\Debug\net6.0\ImvertarioTelefonos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\obj\Debug\net6.0\ImvertarioTelefonos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\bin\Debug\net6.0\ImvertarioTelefonos.exe
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\bin\Debug\net6.0\ImvertarioTelefonos.deps.json
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\bin\Debug\net6.0\ImvertarioTelefonos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\bin\Debug\net6.0\ImvertarioTelefonos.dll
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\bin\Debug\net6.0\ref\ImvertarioTelefonos.dll
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\bin\Debug\net6.0\ImvertarioTelefonos.pdb
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\obj\Debug\net6.0\ImvertarioTelefonos.dll
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\obj\Debug\net6.0\ref\ImvertarioTelefonos.dll
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\obj\Debug\net6.0\ImvertarioTelefonos.pdb
+C:\Users\Usuario\OneDrive\Uleam\4to semestre\POO\ImvertarioTelefonos\obj\Debug\net6.0\ImvertarioTelefonos.genruntimeconfig.cache
