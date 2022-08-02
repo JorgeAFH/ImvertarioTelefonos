@@ -1,0 +1,30 @@
+C:\Users\Jandry Moreira\Desktop\Telefonos\obj\Debug\net6.0\Telefonos.csproj.AssemblyReference.cache
+C:\Users\Jandry Moreira\Desktop\Telefonos\obj\Debug\net6.0\Telefonos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jandry Moreira\Desktop\Telefonos\obj\Debug\net6.0\Telefonos.AssemblyInfoInputs.cache
+C:\Users\Jandry Moreira\Desktop\Telefonos\obj\Debug\net6.0\Telefonos.AssemblyInfo.cs
+C:\Users\Jandry Moreira\Desktop\Telefonos\obj\Debug\net6.0\Telefonos.csproj.CoreCompileInputs.cache
+C:\Users\Jandry Moreira\Desktop\Telefonos\bin\Debug\net6.0\Telefonos.exe
+C:\Users\Jandry Moreira\Desktop\Telefonos\bin\Debug\net6.0\Telefonos.deps.json
+C:\Users\Jandry Moreira\Desktop\Telefonos\bin\Debug\net6.0\Telefonos.runtimeconfig.json
+C:\Users\Jandry Moreira\Desktop\Telefonos\bin\Debug\net6.0\Telefonos.dll
+C:\Users\Jandry Moreira\Desktop\Telefonos\bin\Debug\net6.0\Telefonos.pdb
+C:\Users\Jandry Moreira\Desktop\Telefonos\obj\Debug\net6.0\Telefonos.dll
+C:\Users\Jandry Moreira\Desktop\Telefonos\obj\Debug\net6.0\refint\Telefonos.dll
+C:\Users\Jandry Moreira\Desktop\Telefonos\obj\Debug\net6.0\Telefonos.pdb
+C:\Users\Jandry Moreira\Desktop\Telefonos\obj\Debug\net6.0\Telefonos.genruntimeconfig.cache
+C:\Users\Jandry Moreira\Desktop\Telefonos\obj\Debug\net6.0\ref\Telefonos.dll
+C:\Users\emily\Desktop\jandry\Telefonos\bin\Debug\net6.0\Telefonos.exe
+C:\Users\emily\Desktop\jandry\Telefonos\bin\Debug\net6.0\Telefonos.deps.json
+C:\Users\emily\Desktop\jandry\Telefonos\bin\Debug\net6.0\Telefonos.runtimeconfig.json
+C:\Users\emily\Desktop\jandry\Telefonos\bin\Debug\net6.0\Telefonos.dll
+C:\Users\emily\Desktop\jandry\Telefonos\bin\Debug\net6.0\Telefonos.pdb
+C:\Users\emily\Desktop\jandry\Telefonos\obj\Debug\net6.0\Telefonos.csproj.AssemblyReference.cache
+C:\Users\emily\Desktop\jandry\Telefonos\obj\Debug\net6.0\Telefonos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\Desktop\jandry\Telefonos\obj\Debug\net6.0\Telefonos.AssemblyInfoInputs.cache
+C:\Users\emily\Desktop\jandry\Telefonos\obj\Debug\net6.0\Telefonos.AssemblyInfo.cs
+C:\Users\emily\Desktop\jandry\Telefonos\obj\Debug\net6.0\Telefonos.csproj.CoreCompileInputs.cache
+C:\Users\emily\Desktop\jandry\Telefonos\obj\Debug\net6.0\Telefonos.dll
+C:\Users\emily\Desktop\jandry\Telefonos\obj\Debug\net6.0\refint\Telefonos.dll
+C:\Users\emily\Desktop\jandry\Telefonos\obj\Debug\net6.0\Telefonos.pdb
+C:\Users\emily\Desktop\jandry\Telefonos\obj\Debug\net6.0\Telefonos.genruntimeconfig.cache
+C:\Users\emily\Desktop\jandry\Telefonos\obj\Debug\net6.0\ref\Telefonos.dll
